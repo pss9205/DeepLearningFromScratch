@@ -14,6 +14,7 @@ def show_functionShape():
     plt.plot(x,ysg)
     plt.ylim(-0.1,1.1)
     plt.show()
+    
 class NN3:
     def init_network(self):
         network={}
